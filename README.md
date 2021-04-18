@@ -1,4 +1,6 @@
-### Hi there 👋
+<img alt="test" src="https://raw.githubusercontent.com/rykumar13/portfolio-website/master/static/github%20banner.png"></a>
+
+
 
 <!--
 **rykumar13/rykumar13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
