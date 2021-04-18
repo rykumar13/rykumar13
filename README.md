@@ -1,5 +1,4 @@
-<img alt="test" src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif"></a>
-<img alt="test" src="https://raw.githubusercontent.com/rykumar13/portfolio-website/master/static/github%20banner.png"></a>
+<img alt="test" src="https://raw.githubusercontent.com/rykumar13/portfolio-website/master/static/banner_v2.png"></a>
 
 
 
