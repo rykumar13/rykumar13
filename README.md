@@ -1,4 +1,4 @@
-<img alt="banner" src="https://raw.githubusercontent.com/rykumar13/portfolio-website/master/static/banner_v7.png"></a>
+<img alt="banner" src="https://raw.githubusercontent.com/rykumar13/portfolio-website/master/static/banner_v6.png"></a>
 
 
 
