@@ -3,7 +3,7 @@
 # About 
 Hello! I'm Rajiv, a software engineer from New Zealand currently based in London ♥
 
-Shortly after graduating from University of Auckland, I joined the team at Gentrack Ltd. where I currently work. 
+Shortly after graduating from University of Auckland, I joined the team at Gentrack Ltd where I currently work. 
 I enjoy using new technologies to build websites & applications that provide a great user experience ⭐
 
 Fast learner and always eager to explore new technologies. Firm believer in agile software development, collaboration & hard work. Always wanting to improve 👨‍💻
